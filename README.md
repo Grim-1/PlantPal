@@ -1,2 +1,2 @@
 # PlantPal
-PlantPal your Useless plantpot plant
+PlantPal your Useless plantpot buddy.
