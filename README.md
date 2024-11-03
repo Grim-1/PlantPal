@@ -97,9 +97,6 @@ front view of the inside of the project.
 https://github.com/user-attachments/assets/fb2cd039-9919-41bb-a842-9ab8acaa1753
 
 
-https://github.com/user-attachments/assets/c4932ac3-2012-40f1-8b76-b1d1353d570d
-
-
 
 https://github.com/user-attachments/assets/b7dcbac8-4a65-4108-92df-109e4315cb1a
 
