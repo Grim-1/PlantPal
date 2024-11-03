@@ -25,6 +25,7 @@
 - Our PlantPal will deliver your plants to the mosst ideal dark and cold space so that they do not grow too healthy and get to embrace their moody side.
 - Our PlantPal lets your beloved plants communicate with you using cute and personalized emoticons 🥰.
 - The PlantPal helps your plant get more of your time by throwing trantrums, making noises at unconventional hours and zooming around in circles.
+- 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -56,12 +57,11 @@ Install the following libraries in the arduino IDE:
 # Run
 - Download the PlantPal.ino file from the repository.
 - Install all the required libraries.
-- Run Programs.
+- Run the program.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]a(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
-
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
@@ -69,27 +69,22 @@ Install the following libraries in the arduino IDE:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+- Dataflow and Architecture.
+![Screenshot 2024-11-03 100458](https://github.com/user-attachments/assets/96a47c09-2259-48fb-a743-21ddc2b19f34)
+   
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Pic1](https://github.com/user-attachments/assets/7abdfe6e-09ab-47b7-b108-894ec7a73698)
+![Pic2](https://github.com/user-attachments/assets/8de66381-25bf-46a3-abf5-b4b0c9255270)
+![Pic3](https://github.com/user-attachments/assets/6f0f4b6f-7acd-4296-99ff-29ab4b8ecd82)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Pic4](https://github.com/user-attachments/assets/d06404e1-4116-4d75-8a79-e4761ccc5385)
 
 ### Project Demo
 # Video
