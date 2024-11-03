@@ -25,7 +25,7 @@
 - Our PlantPal will deliver your plants to the mosst ideal dark and cold space so that they do not grow too healthy and get to embrace their moody side.
 - Our PlantPal lets your beloved plants communicate with you using cute and personalized emoticons 🥰.
 - The PlantPal helps your plant get more of your time by throwing trantrums, making noises at unconventional hours and zooming around in circles.
-- 
+  
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -36,6 +36,7 @@ For Software:
 For Hardware:
 - Main Components:
     - LDR
+    - Arduino Mega 
     - Servomotor
     - BO Motor
     - OLED 0.96"
@@ -59,19 +60,6 @@ Install the following libraries in the arduino IDE:
 - Install all the required libraries.
 - Run the program.
 
-# Screenshots (Add at least 3)
-![Screenshot1]a(Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-
-
-For Hardware:
 
 # Schematic & Circuit
 
@@ -80,16 +68,26 @@ For Hardware:
    
 
 # Build Photos
-![Pic1](https://github.com/user-attachments/assets/7abdfe6e-09ab-47b7-b108-894ec7a73698)
-![Pic2](https://github.com/user-attachments/assets/8de66381-25bf-46a3-abf5-b4b0c9255270)
-![Pic3](https://github.com/user-attachments/assets/6f0f4b6f-7acd-4296-99ff-29ab4b8ecd82)
+![Pic1](https://github.com/user-attachments/assets/7abdfe6e-09ab-47b7-b108-894ec7a73698) 
+Power On/Off switch, battery pack and the flower pot 
 
-![Pic4](https://github.com/user-attachments/assets/d06404e1-4116-4d75-8a79-e4761ccc5385)
+![Pic2](https://github.com/user-attachments/assets/8de66381-25bf-46a3-abf5-b4b0c9255270) 
+Veiw of the ultrasonic sensor, IR sensors, motors and the brain Arduino Mega 2560 Rev3.  
 
+![Pic3](https://github.com/user-attachments/assets/6f0f4b6f-7acd-4296-99ff-29ab4b8ecd82) 
+OLED Face
+
+![Pic4](https://github.com/user-attachments/assets/d06404e1-4116-4d75-8a79-e4761ccc5385) 
+front view of the inside of the project.
+
+- These pictures show the various components in action.
+- From the switches and battery that control the main power to the OLED screen with the cute eyes.
+- The brain of the system the Arduino Mega 2560 Rev3 can be seen in the pictures.
+  
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+The video shows the Plant Pal in action, avoiding objects, balancing on edges, searching for a cool and cozy dark space and just being a Flamboyant Diva 💃.
 
 
 ## Team Contributions
