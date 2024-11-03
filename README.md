@@ -1,9 +1,9 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# PlantPal 🎯
+# PlantPal 🌱
 
 
-## PlantPal is your one and only pet plant companion that gets your beloved pet plants the well deserved and long needed attention and care.
+## PlantPal is your one and only pet plant companion that gets your beloved pet plants the well deserved and long needed attention and love 💓 .
 ### Team Name: PlantPal
 
 
@@ -13,17 +13,17 @@
 - Member 3: Edwin K Jayesh - Saintgits College of Engineering, Kottayam
 
 ### Project Description
-- Our project "is" an innovative plantcare automatation device that can take care of all of your plants needs with minimal intervention.
-- Our project uses "Complex" sensors to track plant health and external factors to take "Smart" decisions.
+- Our project is an "innovative plantcare automatation device" that can take care of all of your plants needs with minimal intervention.
+- Our project uses "Complex" 🥷 sensors to track plant health and external factors to take "Smart" decisions.
 - 
 
 ### The Problem (that doesn't exist)
-- Ever had your plants grow too healthy ? Ever wished that your pet plant would interact with you like those animal pets ? Did you have too much peace of mind and serenity due to your lush greenery ?
+- Ever had your plants grow too healthy 💪 ? Ever wished that your pet plant would interact with you like those animal pets ? Did you have too much peace of mind and serenity due to your lush greenery ?
 
 ### The Solution (that nobody asked for)
-- Our PlantPal will solve all these problems by giving you plants wheels and a mind of a toddler.
-- Our PlantPal will deliver your plants to the mosst ideal dark and cold space so that they do not grow too healthy.
-- Our PlantPal lets your beloved plants communicate with you using cute and personalized emoticons.
+- Our PlantPal will solve all these problems by giving you plants wheels 💨 and a mind of a toddler.
+- Our PlantPal will deliver your plants to the mosst ideal dark and cold space so that they do not grow too healthy and get to embrace their moody side.
+- Our PlantPal lets your beloved plants communicate with you using cute and personalized emoticons 🥰.
 - The PlantPal helps your plant get more of your time by throwing trantrums, making noises at unconventional hours and zooming around in circles.
 ## Technical Details
 ### Technologies/Components Used
@@ -45,16 +45,18 @@ For Hardware:
     - 3.6V Batteries
 - Tools: Soldering Kit
 
-### Implementation
-For Software:
 # Installation
-[commands]
+Install the following libraries in the arduino IDE:
+    - SPI.h
+    - Wire.h
+    - Adafruit_GFX.h
+    - Adafruit_SH1106.h
+    - Servo.h
 
 # Run
-[commands]
-
-### Project Documentation
-For Software:
+- Download the PlantPal.ino file from the repository.
+- Install all the required libraries.
+- Run Programs.
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -94,13 +96,11 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Rohan Binu Abraham: Coding
+- Anandakrishnan P: Electronics Hardware
+- Edwin K Jayesh: Mechanics and Hardware
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
