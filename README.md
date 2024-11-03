@@ -15,7 +15,7 @@
 ### Project Description
 - Our project is an "innovative plantcare automatation device" that can take care of all of your plants needs with minimal intervention.
 - Our project uses "Complex" 🥷 sensors to track plant health and external factors to take "Smart" decisions.
-- 
+  
 
 ### The Problem (that doesn't exist)
 - Ever had your plants grow too healthy 💪 ? Ever wished that your pet plant would interact with you like those animal pets ? Did you have too much peace of mind and serenity due to your lush greenery ?
@@ -92,6 +92,28 @@ front view of the inside of the project.
   
 ### Project Demo
 # Video
+
+
+https://github.com/user-attachments/assets/fb2cd039-9919-41bb-a842-9ab8acaa1753
+
+
+https://github.com/user-attachments/assets/c4932ac3-2012-40f1-8b76-b1d1353d570d
+
+
+
+https://github.com/user-attachments/assets/b7dcbac8-4a65-4108-92df-109e4315cb1a
+
+
+https://github.com/user-attachments/assets/218352fa-32cf-458f-ab8e-753ff5ec886b
+
+
+
+
+https://github.com/user-attachments/assets/db087baa-2635-40d0-a2fd-4285cf2af0e4
+
+Explanation Video:
+https://drive.google.com/file/d/1KL6Slo2tFxlwy-s3xH5zwkhoRwFtaVop/view?usp=sharing
+
 
 
 The video shows the Plant Pal in action, avoiding objects, balancing on edges, searching for a cool and cozy dark space and just being a Flamboyant Diva 💃.
