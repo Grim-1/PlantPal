@@ -83,10 +83,17 @@ front view of the inside of the project.
 - These pictures show the various components in action.
 - From the switches and battery that control the main power to the OLED screen with the cute eyes.
 - The brain of the system the Arduino Mega 2560 Rev3 can be seen in the pictures.
+
+ # Final Project Photos
+![Pic6](https://github.com/user-attachments/assets/a6ff96be-d247-4e70-9a76-766501e821b7)
+![pic5](https://github.com/user-attachments/assets/06fb832a-04bd-4eb9-8dd6-e10c9811a94f)
+![pic7](https://github.com/user-attachments/assets/92f0d465-2ccd-4e8f-9de9-39b2f7c4c607)
+
   
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
 The video shows the Plant Pal in action, avoiding objects, balancing on edges, searching for a cool and cozy dark space and just being a Flamboyant Diva 💃.
 
 
